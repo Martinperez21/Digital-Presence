@@ -1,6 +1,7 @@
 # <center>Digital Presence</center>
+<p align="center"> 
 <img src="logo_digital_presence_verde_full.png">
-
+</p>
 #
 
 ### E.E.S.T N°4
