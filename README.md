@@ -1,5 +1,5 @@
 
-# <p align="center"><center>Digital Presence</center>/<p>
+# <p align="center"><center>Digital Presence</center></p>
 <p align="center"> 
 <img src="logo_digital_presence_verde_full.png">
 </p>
